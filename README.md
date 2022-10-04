@@ -32,7 +32,7 @@ additionally, all comments have the article_id for the originating article and, 
 
 ### articles.csv
 
-contains all the articles that were scraped for comments. The available fields are - Publishing Date, Article Title, Article Tags list and Article content
+contains all 160 articles that were scraped for comments. The available fields are - Publishing Date, Article Title, Article Tags list and Article content
 
 
 
@@ -40,9 +40,7 @@ contains all the articles that were scraped for comments. The available fields a
 
 ```
 @inproceedings{cojocaru2022news-ro-offense,
-  title={News-RO-Offense - A Romanian Offensive Language
-Dataset and Baseline Models Centered on News Article
-Comments},
+  title={News-RO-Offense - A Romanian Offensive Language Dataset and Baseline Models Centered on News Article Comments},
   author={Cojocaru, Andreea and Paraschiv, Andrei and Dascalu, Mihai},
   booktitle={Proceedings of the international conference on human-computer interaction-RoCHI 2022},
   pages={--},
